@@ -27,18 +27,15 @@
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
-<!--
-**Tunan81/Tunan81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
-  ![](https://raw.githubusercontent.com/Tunan81/Tunan81/main/assets/github-contribution-grid-snake.svg)
+<!--   连续打卡 -->
+<div align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tunan81&theme=transparent" alt="GitHub Streak" /></a></div>
+
+
+<!--   Github活动统计图 -->
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tunan81" /> </div>
+
+
+<!--   贪吃蛇 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/Tunan81/Tunan81/assets/github-contribution-grid-snake.svg" /></div>
